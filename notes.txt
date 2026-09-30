@@ -1,2 +1,3 @@
 Git is a distributed version control system that tracks changes over time so multiple developers can work together.
 It helps manage project history and prevent code overwrites.
+Summary: Version control is essential for modern software engineering teamwork.
